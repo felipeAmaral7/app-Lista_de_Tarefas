@@ -1,0 +1,25 @@
+# Ignorar arquivos do Android Studio
+*.iml
+/.idea/
+/.idea/caches/
+/.idea/libraries/
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+
+# Arquivos de configuração local
+/local.properties
+
+# Build e caches
+/.gradle/
+**/build/
+.cxx/
+.externalNativeBuild/
+captures/
+
+# Gradle Wrapper
+gradle/wrapper/gradle-wrapper.jar
+
+# Arquivos do sistema
+.DS_Store
